@@ -1,0 +1,254 @@
+.valantalogo {
+    margin-top: 17px;
+    margin-left: 300px;
+    margin-bottom: 11px;
+}
+
+.ua {
+    font: 49% sans-serif;
+    margin-bottom: 2px;
+    margin-left: 28px;
+    height: 27px;
+    width: 29px;
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0);
+    background-color: rgba(0,0,0,0);
+}
+
+.ua:hover {
+    background-color: #4AD295;
+    color: rgb(255, 255, 255);
+}
+
+.ru {
+    font: 49% sans-serif;
+    height: 27px;
+    width: 29px;
+    border-radius: 5px;
+    background-color: rgba(0,0,0,0);
+    border: 1px solid rgba(0, 0, 0, 0);  
+}
+
+.ru:hover {
+    background-color: #4AD295;
+    color: rgb(255, 255, 255);
+}
+
+.legangue {
+    border-left: 1px solid #E2E2E2;
+    margin-top: -70px;
+    margin-left: 485px;
+    height: 40px;
+}
+
+.usd {
+    color: black;
+    font: 100% sans-serif;
+    margin-bottom: 2px;
+    margin-left: 28px;
+}
+
+.eur {
+    color: black;
+    font: 100% sans-serif;
+    margin-left: 28px;
+}
+
+.coursofmoney {
+    border-left: 1px solid #E2E2E2;
+    margin-top: -40px;
+    margin-left: 605px;
+    height: 40px;
+}
+
+.socialsites {
+    height: 40px;
+    border-left: 1px solid #E2E2E2;
+    margin-left: 750px;
+    margin-top: -40px;
+}
+
+#F {
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.numbersphones {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.firstnumberphone {
+    color: black;
+    margin-top: -40px;
+    margin-left: 900px;
+    border-left: 1px solid #E2E2E2;
+    height: 40px;
+    padding-left: 20px;
+}
+
+/*phonen {
+    margin-left: 840px;
+    margin-top: -50px;
+}*/
+
+.textmaistra {
+    margin-top: -10px;
+    font: sans-serif;
+    color: black;
+    padding-left: 20px;
+    height: 40px;
+    padding-top: 10px;
+    background-color: #EFF3F6;
+    margin-right: 660px;
+}
+
+.maistra {
+    margin-top: -65px;
+    margin-left: 1070px;
+    border-left:1px solid #E2E2E2;
+    padding-left: 20px;
+    height: 40px;
+    padding-top: 10px;
+}
+
+.calendar {
+    background-color: #DD4053;
+    margin-left: 169px;
+    margin-right: 620px;
+    height: 50px;
+    width: 50px;
+    margin-top: -50px;
+}
+
+#calendar {
+    color: #ffff;
+    padding: 15px;
+}
+
+.texttours {
+    margin-top: -10px;
+    font: sans-serif;
+    color: black;
+    padding-left: 20px;
+    height: 40px;
+    padding-top: 10px;
+    background-color: #EFF3F6;
+    margin-right: 350px;
+}
+
+.tourssearch {
+    margin-top: -53px;
+    margin-left: 1340px;
+    border-left:1px solid #E2E2E2;
+    padding-left: 20px;
+    height: 40px;
+    padding-top: 10px;
+}
+
+.searchonheader {
+    background-color: #4AD295;
+    margin-left: 169px;
+    height: 50px;
+    width: 50px;
+    margin-top: -50px;
+}
+
+#search {
+    color: #ffff;
+    padding: 15px;
+}
+
+.header {
+    border-bottom:1px solid #D0D0D0;
+    height: 100px;
+}
+
+.search {
+    margin-left: 180px;
+    margin-top: 30px;
+}
+
+.searchcomplete {
+    margin-top: 30px;
+    font-family: serif;
+    color: #616161;
+}
+
+nav {
+    margin-top: -70px;
+    margin-left: 300px;
+    background-color: #FFF;
+}
+
+nav ul {
+    padding:0;
+    margin:0;
+    list-style: none;
+    position: relative;
+}
+
+nav ul li {
+    margin: 0px -7px 0 0;
+    display:inline-block;
+    background-color: #FFF;
+}
+
+nav a {
+    display:block;
+    padding:0 10px;
+    color:#616161;
+    font-size:20px;
+    line-height: 60px;
+    text-decoration:none;
+}
+
+nav ul ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+}
+
+nav ul li:hover > ul {
+    display:inherit;
+}
+
+nav ul ul li {
+    min-width:170px;
+    display:list-item;
+    position: relative;
+    border: 1px solid black;
+}
+
+nav ul ul ul {
+    position: absolute;
+    top:0;
+    left:100%;
+}
+
+nav ul ul ul ul {
+    position: absolute;
+    top:0;
+    left:100%;
+}
+
+nav ul ul ul ul ul {
+    position: absolute;
+    top:0;
+    left:100%;
+}
+
+li > a:after { content:  ' ▼'; }
+li > a:only-child:after { content: ''; }
+
+
+
+
+
+
+
+
+
+
+
+
+

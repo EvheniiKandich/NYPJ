@@ -1,0 +1,21 @@
+.socialsites {
+    height: 40px;
+    border-left: 1px solid #E2E2E2;
+    margin-left: 20px;
+}
+
+.numbersphones {
+   font-family: Georgia, 'Times New Roman', Times, serif; 
+   margin-left: 120px;
+}
+
+.firstnumberphone {
+    color: black;
+}
+
+.secondnumberphone {
+    color: black;
+}
+#phone {
+    margin-left: 120px;
+}
